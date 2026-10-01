@@ -11,13 +11,14 @@ header{
   border-radius:30px;
 }
 
-.blocks h2{
+/* .blocks h2{
   color:#19D1D1;
   font-size:2rem;
   padding-bottom:0.4rem;
   margin-bottom:1.5rem;
   border-bottom: 3px solid #19D1D1;
-}
+} */
+
 nav{
 background-color: #24DDF2;
   border-radius:10px;
